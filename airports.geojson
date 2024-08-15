@@ -2,10 +2,6 @@
     "type": "FeatureCollection",
     "features": [{
             "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [116.588174, 40.078766]
-            },
             "properties": {
                 "scalerank": 2,
                 "featurecla": "Airport",
@@ -20,6 +16,10 @@
                 "cartodb_id": 837,
                 "created_at": "2014-10-19T00:00:00Z",
                 "updated_at": "2014-10-19T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [116.588174, 40.078766]
             }
         }
     ]
