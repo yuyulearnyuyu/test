@@ -1,26 +1,15 @@
 {
     "type": "FeatureCollection",
-    "features": [{
-            "type": "Feature",
-            "properties": {
-                "scalerank": 2,
-                "featurecla": "Airport",
-                "type": "major",
-                "name": "Beijing Capital",
-                "abbrev": "PEK",
-                "location": "terminal",
-                "gps_code": "ZBAA",
-                "iata_code": "PEK",
-                "wikipedia": "http://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
-                "natlscale": 150,
-                "cartodb_id": 837,
-                "created_at": "2014-10-19T00:00:00Z",
-                "updated_at": "2014-10-19T00:00:00Z"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [116.588174, 40.078766]
-            }
+    "features": [
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [125.6, 10.1]
+          },
+          "properties": {
+            "name": "Dinagat Islands"
+          }
         }
     ]
 }
