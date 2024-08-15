@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.797222, 47.115858]
+            },
+            "properties": {
+                "scalerank": 8,
+                "featurecla": "Airport",
+                "type": "mid",
+                "name": "Rostov S.W.",
+                "abbrev": null,
+                "location": "runway",
+                "gps_code": null,
+                "iata_code": null,
+                "wikipedia": null,
+                "natlscale": 10,
+                "cartodb_id": 239,
+                "created_at": "2014-10-19T00:00:00Z",
+                "updated_at": "2014-10-19T00:00:00Z"
+            }
+        },
+    ]
+}
