@@ -1,26 +1,24 @@
 {
     "type": "FeatureCollection",
-    "features": [{
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [39.797222, 47.115858]
-            },
-            "properties": {
-                "scalerank": 8,
-                "featurecla": "Airport",
-                "type": "mid",
-                "name": "Rostov S.W.",
-                "abbrev": null,
-                "location": "runway",
-                "gps_code": null,
-                "iata_code": null,
-                "wikipedia": null,
-                "natlscale": 10,
-                "cartodb_id": 239,
-                "created_at": "2014-10-19T00:00:00Z",
-                "updated_at": "2014-10-19T00:00:00Z"
-            }
-        },
+    "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [116.588174, 40.078766] },
+      "properties": {
+        "scalerank": 2,
+        "featurecla": "Airport",
+        "type": "major",
+        "name": "Beijing Capital",
+        "abbrev": "PEK",
+        "location": "terminal",
+        "gps_code": "ZBAA",
+        "iata_code": "PEK",
+        "wikipedia": "http://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+        "natlscale": 150,
+        "cartodb_id": 837,
+        "created_at": "2014-10-19T00:00:00Z",
+        "updated_at": "2014-10-19T00:00:00Z"
+      }
+    }
     ]
 }
